@@ -3,6 +3,7 @@
 Problem:
 Print a solid square pattern using stars.
 
+
 Input:
 5
 
