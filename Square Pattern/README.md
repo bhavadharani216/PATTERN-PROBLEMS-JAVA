@@ -7,11 +7,14 @@ Input:
 5
 
 Output:
+```
 *****
 *****
 *****
 *****
 *****
+```
+
 
 Concepts Used:
 - Nested for loops
