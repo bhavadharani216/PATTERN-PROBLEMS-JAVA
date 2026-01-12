@@ -9,11 +9,11 @@ Example:
 3 7
 
 Output:
-'
+```
 *********
 *********
 *********
-'
+```
 
 Concepts Used:
 - Nested for loops
