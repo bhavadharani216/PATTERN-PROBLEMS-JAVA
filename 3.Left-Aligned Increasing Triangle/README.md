@@ -4,13 +4,13 @@ Problem:
 Print the Left Aligned Increasing Triangle Star Pattern
 
 Output:
-'''
+```
 *
 **
 ***
 ****
 *****
-'''
+```
 
 
 Concepts Used:
