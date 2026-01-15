@@ -4,14 +4,11 @@
 Problem:
 This project prints a special number pattern that forms a wave-like structure.
 ```
-### Pattern Output
+ 
 ```
-For n = 5, 
-the output will be:
-```
-
 Input:
 5
+```
 
 ```
 Output:
@@ -29,6 +26,7 @@ Output:
 - Each new line increases the count.
 - Some lines print numbers in reverse order.
 - The pattern looks like a wave when observed diagonally.
+
 
 
 
