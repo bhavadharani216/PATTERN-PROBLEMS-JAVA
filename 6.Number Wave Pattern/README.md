@@ -34,11 +34,13 @@ A number pattern with n rows.
 Input:
 5
 
+```
 Output:
 1
 21
 321
 4321
 54321
- 
+```
+
 
