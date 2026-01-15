@@ -3,8 +3,10 @@
 This project prints a special number pattern that forms a wave-like structure.
 
 ### Pattern Output
-
-For n = 5, the output will be:
+```
+For n = 5, 
+the output will be:
+```
 
 1  
 21  
@@ -39,3 +41,4 @@ Output:
 4321
 54321
  
+
