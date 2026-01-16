@@ -2,11 +2,11 @@
 ```
 Problem:  
 Print a decreasing number triangle pattern.
-```
+
 
 Input:
 5
-
+```
 Output:
 54321
 4321
