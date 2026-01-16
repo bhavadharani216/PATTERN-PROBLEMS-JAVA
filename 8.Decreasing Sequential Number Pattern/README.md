@@ -1,6 +1,9 @@
 ```
 Problem:  
 Print numbers from 1 up to n, decreasing one digit each row.
+
+Input:
+5
  
 Output:
 
