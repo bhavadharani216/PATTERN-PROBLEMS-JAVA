@@ -1,8 +1,8 @@
 # Decreasing Number Triangle Pattern
-
+```
 Problem:  
 Print a decreasing number triangle pattern.
-
+```
 
 Input:
 5
