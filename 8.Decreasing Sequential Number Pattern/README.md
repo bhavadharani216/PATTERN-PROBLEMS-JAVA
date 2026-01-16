@@ -2,6 +2,7 @@
 Problem:  
 Print numbers from 1 up to n, decreasing one digit each row.
 ```
+```
 Output:
 
 12345
@@ -9,7 +10,7 @@ Output:
 123
 12
 1
-
+```
 
 Concepts Used:
 - Nested for loops
