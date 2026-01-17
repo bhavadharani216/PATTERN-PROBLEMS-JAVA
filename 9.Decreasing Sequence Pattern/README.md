@@ -20,7 +20,7 @@ Concepts Used
 
 - Number sequences
 
--Pattern printing
+- Pattern printing
 
 -Loop control
 
