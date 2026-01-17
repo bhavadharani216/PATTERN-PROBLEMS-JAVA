@@ -18,7 +18,7 @@ Concepts Used
 
 - For loop
 
--Number sequences
+- Number sequences
 
 -Pattern printing
 
