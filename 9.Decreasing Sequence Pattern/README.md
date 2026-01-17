@@ -16,7 +16,7 @@ Concepts Used
 
 - Nested loops
 
--For loop
+- For loop
 
 -Number sequences
 
