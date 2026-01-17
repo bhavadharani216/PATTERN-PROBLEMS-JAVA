@@ -1,20 +1,20 @@
 ```
-Problem
+Problem :
 
 Write a program to print a number pattern where each row starts from 5 and
 continues in decreasing order, adding one more number in each new row.
 
-Input
+Input :
 5
 
-Output
+Output :
 5
 54
 543
 5432
 54321
 ```
-Concepts Used
+Concepts Used :
 
 - Nested loops
 
