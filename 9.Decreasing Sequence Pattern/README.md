@@ -1,6 +1,8 @@
+```
 Problem
 
-Write a program to print a number pattern where each row starts from 5 and continues in decreasing order, adding one more number in each new row.
+Write a program to print a number pattern where each row starts from 5 and
+continues in decreasing order, adding one more number in each new row.
 
 Input
 5
@@ -11,7 +13,7 @@ Output
 543
 5432
 54321
-
+```
 Concepts Used
 
 - Nested loops
