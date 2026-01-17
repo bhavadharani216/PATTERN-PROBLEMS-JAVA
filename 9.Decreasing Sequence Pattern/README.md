@@ -24,6 +24,6 @@ Concepts Used
 
 - Loop control
 
--Decrement operation
+- Decrement operation
 
 -Output formatting
