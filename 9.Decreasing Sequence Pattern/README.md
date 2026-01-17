@@ -26,4 +26,4 @@ Concepts Used
 
 - Decrement operation
 
--Output formatting
+- Output formatting
