@@ -22,7 +22,7 @@ Concepts Used
 
 - Pattern printing
 
--Loop control
+- Loop control
 
 -Decrement operation
 
