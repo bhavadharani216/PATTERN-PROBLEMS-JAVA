@@ -14,7 +14,7 @@ Output
 
 Concepts Used
 
--Nested loops
+- Nested loops
 
 -For loop
 
