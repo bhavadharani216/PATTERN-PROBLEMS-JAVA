@@ -11,9 +11,9 @@ Output:
 345
 2345
 12345
-```
-Concepts Used:
 
+Concepts Used:
+```
 - Nested loops
 
 - For loop
