@@ -1,4 +1,4 @@
-problem:
+Problem:
 This program prints a number pattern where each new row starts from a smaller number and increases up to 5, forming a forward-growing pattern.
 
 Input:
