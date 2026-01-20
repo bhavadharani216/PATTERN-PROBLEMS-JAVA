@@ -4,15 +4,16 @@ Print a number triangle that starts from 5 in every row and decreases by one dig
 
 Input:
 5
-```
+ 
 
 Output:
+
 54321
 5432
 543
 54
 5
-
+```
 
 Concepts Used:
 - Nested for loops
