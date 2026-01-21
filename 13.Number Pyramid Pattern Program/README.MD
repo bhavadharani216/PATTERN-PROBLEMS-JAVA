@@ -4,13 +4,15 @@ This program prints a simple number pyramid pattern where each row contains the 
 
 Input:
 5
-```
+
+
 Pattern Output
 1
 22
 333
 4444
 55555
+```
 
 
 1. Loops
