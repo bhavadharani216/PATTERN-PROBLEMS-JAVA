@@ -1,6 +1,7 @@
+``
 Problem:  
 Print a number pattern where each row starts with an increasing number and the length decreases.
-
+```
 Output:
 12345
 2345
