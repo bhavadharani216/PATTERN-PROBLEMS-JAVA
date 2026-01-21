@@ -1,7 +1,10 @@
-``
+```
 Problem:  
 Print a number pattern where each row starts with an increasing number and the length decreases.
-```
+
+Input:
+5
+
 Output:
 12345
 2345
@@ -13,3 +16,4 @@ Output:
 Concepts Used:
 - Nested for loops
 - Number pattern logic
+```
