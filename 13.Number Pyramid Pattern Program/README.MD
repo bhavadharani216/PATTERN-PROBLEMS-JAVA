@@ -12,8 +12,8 @@ Pattern Output
 333
 4444
 55555
-```
 
+Concepts Used:
 
 1. Loops
 
@@ -50,3 +50,5 @@ Using print with newline after each row.
 Loop starts at 1 and ends at 5.
 
 Increases step by step to build the pyramid.
+
+```
