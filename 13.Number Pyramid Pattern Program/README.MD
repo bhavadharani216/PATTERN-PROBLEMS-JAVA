@@ -1,9 +1,10 @@
 ```
 Problem:
 This program prints a simple number pyramid pattern where each row contains the same digit repeated as many times as the row number.
-```
+
 Input:
 5
+```
 Pattern Output
 1
 22
