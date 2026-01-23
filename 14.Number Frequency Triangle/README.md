@@ -7,13 +7,14 @@ Input:
 5
 
 Output:
+
 11111
 2222
 333
 44
 5
-```
 
 Concepts Used:
 - Nested for loops
 - Number pattern logic
+```
