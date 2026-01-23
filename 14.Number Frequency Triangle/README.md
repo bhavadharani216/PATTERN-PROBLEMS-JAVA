@@ -2,7 +2,7 @@
 ```
 Problem:  
 Print a number pattern where each row contains repeated digits and the count decreases in each row.
-```
+
 Input:
 5
 
@@ -12,7 +12,7 @@ Output:
 333
 44
 5
-
+```
 
 Concepts Used:
 - Nested for loops
