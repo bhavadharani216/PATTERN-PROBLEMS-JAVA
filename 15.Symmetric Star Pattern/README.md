@@ -4,7 +4,7 @@ Print a star pattern that increases up to the middle and then decreases symmetri
  
 Input:
 5
-```
+
 Output:
 *
 **
@@ -16,7 +16,7 @@ Output:
 **
 *
 
-
+```
 Concepts Used:
 - Nested for loops
 - Pattern symmetry
