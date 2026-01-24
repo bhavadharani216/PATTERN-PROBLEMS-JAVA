@@ -1,3 +1,5 @@
+SYMMETRIC STAR PATTERN
+
 ```
 Problem:  
 Print a star pattern that increases up to the middle and then decreases symmetrically.
