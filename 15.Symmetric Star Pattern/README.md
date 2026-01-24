@@ -1,10 +1,10 @@
 ```
 Problem:  
 Print a star pattern that increases up to the middle and then decreases symmetrically.
-```
+ 
 Input:
 5
-
+```
 Output:
 *
 **
