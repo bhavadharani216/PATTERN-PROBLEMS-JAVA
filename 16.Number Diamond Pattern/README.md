@@ -5,7 +5,7 @@ Print a number pattern that increases to a maximum value and then decreases symm
 
 Input:
 5
-
+```
 Output:
 
 1
@@ -17,7 +17,7 @@ Output:
 123
 12
 1
-
+```
 
 Concepts Used:
 - Nested for loops
