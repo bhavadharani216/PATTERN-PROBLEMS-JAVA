@@ -1,8 +1,8 @@
 # Number Diamond Pattern
-
+```
 Problem:  
 Print a number pattern that increases to a maximum value and then decreases symmetrically.
-```
+ 
 Input:
 5
 
@@ -17,9 +17,9 @@ Output:
 123
 12
 1
-```
 
 Concepts Used:
 - Nested for loops
 - Pattern symmetry
 - Number pattern logic
+```
