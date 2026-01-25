@@ -2,10 +2,10 @@
 
 Problem:  
 Print a number pattern that increases to a maximum value and then decreases symmetrically.
-
+```
 Input:
 5
-```
+
 Output:
 
 1
