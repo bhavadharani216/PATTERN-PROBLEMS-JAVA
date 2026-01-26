@@ -4,6 +4,7 @@ Problem:
 Print a number pattern where digits increase in count and start in reverse order, then decrease symmetrically.
 
 Input:
+
 5
 
 Output:
