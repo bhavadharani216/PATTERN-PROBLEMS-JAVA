@@ -1,4 +1,4 @@
-Centered Reverse Number Diamond
+#Centered Reverse Number Diamond
 
 Problem:  
 Print a number diamond pattern where each row starts with a decreasing number, reaches the center, and then mirrors back.
