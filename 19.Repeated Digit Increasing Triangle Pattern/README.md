@@ -1,5 +1,5 @@
 # Repeated Digit Increasing Triangle Pattern
-
+```
 Problem:  
 Write a program to accept a number n and print an increasing triangle using the same digit n.
 
@@ -18,3 +18,4 @@ Concepts Used:
 - Nested for loops
 - Scanner for input
 - Number pattern logic
+```
