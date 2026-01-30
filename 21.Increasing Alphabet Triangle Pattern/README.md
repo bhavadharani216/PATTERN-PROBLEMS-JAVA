@@ -3,6 +3,9 @@
 Problem:  
 Print an increasing alphabet triangle pattern starting from the letter A.
 
+Input:
+5
+
 Output:
 
 A
