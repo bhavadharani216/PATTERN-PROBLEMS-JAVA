@@ -3,10 +3,10 @@
 Problem:  
 Print an increasing alphabet triangle pattern starting from the letter A.
 
-Input:
+InPut:
 5
 
-Output:
+OutPut:
 
 A
 AB
