@@ -4,6 +4,7 @@ Problem:
 Write a program to accept a number n and print an increasing triangle using the same digit n.
 
 Input:
+
 5
  
 Output:
